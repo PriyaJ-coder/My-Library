@@ -2,6 +2,8 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "xstring": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "stdio.h": "c",
+        "iostream": "cpp"
     }
 }
