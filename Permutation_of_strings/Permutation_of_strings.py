@@ -24,5 +24,6 @@ def permutations(string):
     return result
 
 
+result = permutations("cna")
 result = permutations("cca")
 print(result)

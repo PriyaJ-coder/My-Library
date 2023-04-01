@@ -58,3 +58,37 @@ Sort a stack - recursion
 Tree sort 
 fractional knapsack 
 knapsack 
+Diamond Shape Pattern Program -
+Right Pascal’s Triangle -
+Sandglass Star Pattern -
+Triangle Star pattern border only -
+Diamond Shape Pattern border only -
+K Shape Character Pattern Program -
+Floyd's Cycle Detect Algorithm -
+Floyd's Cycle Detect Algorithm: Remove Cycle (Loop) from a Linked List -
+How to merge two sorted Arrays into a Sorted Array -
+Right pascal star pattern -
+Dyck paths -
+stable marraige problem -
+array rotation -
+mountain range problem
+catalan problem -
+Check hamiltanian path-
+Count hamiltanian path-
+print hamiltanian cycles-
+Longest Mountain Subarray -
+Skiplist
+Subset problem 
+longest increasing sequence 
+Jhonson Trotter 
+kadane's algo 
+Array sum 
+stolen value problem 
+rod cutting 
+case logging 
+toothpick sequence 
+gaming array 
+Mo's order 
+coin combination 
+shortest common sequence 
+maximized XOR 
