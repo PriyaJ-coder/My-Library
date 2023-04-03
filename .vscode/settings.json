@@ -12,6 +12,7 @@
         "vector": "cpp",
         "string.h": "c",
         "stdlib.h": "c",
-        "list": "cpp"
+        "list": "cpp",
+        "xlocale": "c"
     }
 }

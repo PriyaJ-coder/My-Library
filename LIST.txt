@@ -71,24 +71,30 @@ Right pascal star pattern -
 Dyck paths -
 stable marraige problem -
 array rotation -
-mountain range problem
 catalan problem -
 Check hamiltanian path-
 Count hamiltanian path-
 print hamiltanian cycles-
 Longest Mountain Subarray -
-Skiplist
-Subset problem 
-longest increasing sequence 
-Jhonson Trotter 
-kadane's algo 
-Array sum 
-stolen value problem 
-rod cutting 
-case logging 
-toothpick sequence 
-gaming array 
-Mo's order 
-coin combination 
-shortest common sequence 
-maximized XOR 
+Skiplist -
+Subset problem -
+longest increasing sequence - erroneous result
+Jhonson Trotter - do it sir's way later
+kadane's algo -
+stolen value problem -
+rod cutting -
+swap all odd and even bits -
+Magic number -
+Permutaion in lexographical order -
+Minimum coin combination -
+coin combination -
+shortest common sequence -
+maximized XOR -
+Modular multiplicative inverse -
+Fermat's little theorem -
+Next sparse number -
+BIT -
+HCF -
+LCM -
+Minimum number of jumps to reach the end -
+Edit distance problem
